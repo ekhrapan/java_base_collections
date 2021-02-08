@@ -14,7 +14,7 @@ public class HashMapDemo {
         Box p4 = new Box(1, 5, 9);
 
         // Create ArrayList
-        Map<Box, Integer> Boxs = new HashMap();
+        Map<Box, Integer> Boxs = new HashMap<>();
         Boxs.put(p1, 1);
         Boxs.put(p2, 2);
         Boxs.put(p3, 3);
